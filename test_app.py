@@ -1,4 +1,5 @@
 from fastapi.testclient import TestClient
+import uvicorn
 from main import app
 
 # test to check the correct functioning of the /ping route

@@ -10,6 +10,7 @@ This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` a
 - Install dependencies using `pip3 install -r requirements.txt`
 - Run application using `python3 main.py`
 - Run tests using `python3 -m pytest`
+- Run tests along with codecov `python3 -m pytest --cov=./`
 
 ## CI/CD
 - `unittest`: Run the python unit tests using pytest

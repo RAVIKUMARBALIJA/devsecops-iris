@@ -1,6 +1,6 @@
 # Dev-Sec-Ops Demo/Assignment
 
-[![codecov](https://codecov.io/gh/PGCSEDS-IIITH/devsecops-iris/branch/master/graph/badge.svg?token=EILEH8L7R5)](https://codecov.io/gh/PGCSEDS-IIITH/devsecops-iris)
+[![codecov](https://codecov.io/gh/RAVIKUMARBALIJA/devsecops-iris/branch/master/graph/badge.svg?token=WYVNEKXOC2)](https://codecov.io/gh/RAVIKUMARBALIJA/devsecops-iris)
 
 This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` application which predicts the flower class using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
@@ -9,7 +9,7 @@ This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` a
 - Clone your fork using `git clone https://www.github.com/<your-username>/mlops-iris.git`
 - Install dependencies using `pip3 install -r requirements.txt`
 - Run application using `python3 main.py`
-- Run tests using `pytest`
+- Run tests using `python3 -m pytest`
 
 ## CI/CD
 - `unittest`: Run the python unit tests using pytest
